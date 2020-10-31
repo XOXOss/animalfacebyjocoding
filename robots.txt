@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://animalfacess.netlify.app/sitemap.xml
