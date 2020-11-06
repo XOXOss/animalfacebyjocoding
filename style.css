@@ -469,3 +469,9 @@ body {
     width: 50%;
     margin: 0 auto;
 }
+
+.en {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
